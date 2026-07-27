@@ -18,7 +18,7 @@ If you observe any abusive activity within the listed domains, promptly report i
 - choreoapis.io
 
 
-### Asgardeo Domains
+### WSO2 Identity Platform Domains
 
 - asgardeo.dev
 - asgardeo.io

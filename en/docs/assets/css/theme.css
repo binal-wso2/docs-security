@@ -73,12 +73,6 @@
 	height: auto !Important; 
 } */
 
-
-.md-header-nav__button.md-logo>img {
-	width: 60px;
-	margin-top: 3px;
-}
-
 .md-header__version-select {
 	width: 3.5rem;
 }

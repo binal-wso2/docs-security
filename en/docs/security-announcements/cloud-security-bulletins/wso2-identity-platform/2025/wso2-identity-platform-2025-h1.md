@@ -1,11 +1,11 @@
 ---
-title: Asgardeo Security Bulletin – H1 2025
+title: WSO2 Identity Platform Security Bulletin – H1 2025
 category: security-announcements
 published: "2025-07-04"
 version: "1.0.0"
 ---
 
-# Asgardeo Security Bulletin – H1 2025
+# WSO2 Identity Platform Security Bulletin – H1 2025
 
 <p class="doc-info">Published: 2025-07-04</p>
 <p class="doc-info">Version: 1.0.0</p>
@@ -14,7 +14,7 @@ version: "1.0.0"
 ASG-SB-2025-H1
 
 ### SCOPE  
-This bulletin summarizes security vulnerabilities addressed during the H1 of 2025 for Asgardeo.
+This bulletin summarizes security vulnerabilities addressed during the H1 of 2025 for WSO2 Identity Platform.
 
 ### VULNERABILITIES ADDRESSED
 
@@ -32,4 +32,4 @@ This bulletin summarizes security vulnerabilities addressed during the H1 of 202
 | ASG-2025-009 | Access Token retrieval via ‘code token’ flow | High | Improper validation allowed tokens to be issued under improper flow conditions. |
 
 ### CREDITS  
-Asgardeo thanks all internal and external researchers for responsibly disclosing the above issues.
+WSO2 Identity Platform thanks all internal and external researchers for responsibly disclosing the above issues.
