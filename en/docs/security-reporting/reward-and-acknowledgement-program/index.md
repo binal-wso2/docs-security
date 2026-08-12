@@ -13,13 +13,17 @@ WSO2 maintains a reward and acknowledgement program to recognize security resear
 
 ## Products and services in scope
 
-The program covers the following WSO2 products and services.
+The program covers supported WSO2 products and supported WSO2 Solutions, including every WSO2 platform and the products within it. A product or solution is "supported" when it has an Available or Deprecated version that is within Full Support in the [WSO2 Support Matrix](https://wso2.com/products/support-matrix/). Versions outside Full Support are out of scope.
+
+The WSO2 platforms are:
 
 * Agent Platform
 * API Platform
-* Identity Platform
 * Integration Platform
-* Developer Platform
+* Identity Platform
+* Engineering Platform
+
+The products that belong to a platform are in scope along with the platform. See [WSO2 Products](https://wso2.com/products/) for the current platforms, their products, and WSO2 Solutions.
 
 Internal staging environments, demo sites, WSO2-operated websites (e.g. wso2.com), and any customer-owned deployment of WSO2 software are out of scope.
 
