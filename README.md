@@ -7,20 +7,20 @@ To see the **latest released documentation** for the WSO2 Security & Compliance 
 
 ### Step 1 - Install Python
 
-This project requires **Python 3.12**. You can verify the version installed on your machine by running the following command.
+This project requires **Python 3.8.0**. You can verify the version installed on your machine by running the following command.
 
 ```shell
 $ python3 --version
-Python 3.12.x
+Python 3.8.0
 ```
 
-If Python 3.12 is not installed, download it from [python.org/downloads](https://www.python.org/downloads/) or use your platform's package manager. Newer releases (Python 3.13 and above) are not yet supported by the pinned dependencies in `requirements.txt`.
+If Python 3.8.0 is not installed, download it from [python.org/downloads](https://www.python.org/downloads/) or use your platform's package manager. The pinned dependencies support Python 3.8 to 3.12; Python 3.13 and later are not yet supported.
 
 ### Step 2 - Install Pip
 >
 > **INFO**
 >
-> Python 3.12 includes pip by default. If pip is missing, download `get-pip.py` and run the following command to install it:
+> Python 3.8.0 includes pip by default. If pip is missing, download `get-pip.py` and run the following command to install it:
 > ```shell
 > $ python3 get-pip.py
 > ```
