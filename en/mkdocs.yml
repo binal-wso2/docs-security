@@ -32,8 +32,9 @@ copyright: WSO2 Security and Compliance - Documentation
 theme:
   name: material
   custom_dir: theme/material
-  logo: assets/images/logo.svg
-  logo_light: assets/images/logo-for-light.svg
+  # Dark-coloured logo for the light theme; white logo for the dark theme.
+  logo: assets/images/logo-for-light.svg
+  logo_light: assets/images/logo-for-dark.svg
   favicon: assets/images/favicon.png
   language: 'en'
   font: false
